@@ -1,3 +1,5 @@
+## Modified theme on the example of: https://code.tutsplus.com/tutorials/how-to-customize-your-command-prompt--net-24083
+
 <p align="center">
   <img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png" alt="Oh My Zsh">
 </p>
