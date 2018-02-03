@@ -86,4 +86,10 @@ source $ZSH/oh-my-zsh.sh
 
 alias gs='git status'
 alias gp='git pull'
+function lg() {
+    BRANCH=git branch | grep "^* " | sed 's/^\*.//g'
+    git add .
+    git commit -a -m "$1"
+    git push -u origin $BRANCH
+}
 
