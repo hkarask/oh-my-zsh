@@ -7,6 +7,7 @@ Backed up bash profile to template folder
 ## Install
 
 ```shell
+apt-get update && apt-get install zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/hkarask/oh-my-zsh/master/tools/install.sh)"
 ```
 
