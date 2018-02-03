@@ -1,5 +1,3 @@
-## HK
-
 Modified theme on the example of: https://code.tutsplus.com/tutorials/how-to-customize-your-command-prompt--net-24083
 
 Backed up bash profile to template folder
@@ -12,6 +10,8 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/hkarask/oh-my-zsh/master/t
 ```
 
 ***
+
+## Original Guide
 
 <p align="center">
   <img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png" alt="Oh My Zsh">
