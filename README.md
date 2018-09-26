@@ -1,6 +1,7 @@
 Modified theme on the example of: https://code.tutsplus.com/tutorials/how-to-customize-your-command-prompt--net-24083
 
 For MacOS, download solarized dark theme:
+
 `curl -o solarizedDark https://raw.githubusercontent.com/altercation/solarized/master/osx-terminal.app-colors-solarized/xterm-256color/Solarized%20Dark%20xterm-256color.terminal`
 
 Backed up bash profile to template folder
