@@ -17,9 +17,13 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/hkarask/oh-my-zsh/master/t
 ```
 
 ## Additional conf
+Setting Git autocrlf
 ```shell
 git config --global core.autocrlf true
 ```
+
+Fixing Windows terminal colors:
+https://github.com/hkarask/ubuntu-bash-layout-for-windows/blob/master/change_font_colors.ps1
 
 **Suggestions plugin:**
 https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh
