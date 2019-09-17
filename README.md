@@ -8,6 +8,7 @@ Backed up bash profile to template folder
 
 ## Articles used
 - https://medium.com/@ivanaugustobd/your-terminal-can-be-much-much-more-productive-5256424658e8
+- https://opensource.com/article/18/9/tips-productivity-zsh
 
 ## Install
 
