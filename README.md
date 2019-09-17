@@ -6,12 +6,21 @@ For MacOS, download solarized dark theme:
 
 Backed up bash profile to template folder
 
+## Articles used
+- https://medium.com/@ivanaugustobd/your-terminal-can-be-much-much-more-productive-5256424658e8
+
 ## Install
 
 ```shell
 apt-get update && apt-get install zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/hkarask/oh-my-zsh/master/tools/install.sh)"
 ```
+
+**Suggestions plugin:**
+https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh
+
+**Highlighting plugin:**
+https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md#oh-my-zsh
 
 ***
 
