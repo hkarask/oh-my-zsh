@@ -16,6 +16,11 @@ apt-get update && apt-get install zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/hkarask/oh-my-zsh/master/tools/install.sh)"
 ```
 
+## Additional conf
+```shell
+git config --global core.autocrlf true
+```
+
 **Suggestions plugin:**
 https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh
 
