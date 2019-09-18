@@ -42,7 +42,7 @@ https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md#oh-m
 **Fancier Git diff**
 https://github.com/so-fancy/diff-so-fancy
 
-***Remove windows executables from path*
+**Remove windows executables from path**
 https://github.com/Microsoft/WSL/issues/1493#issuecomment-417639271
 ***
 
