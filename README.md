@@ -26,6 +26,13 @@ git config --global core.autocrlf true
 **Fixing Windows terminal colors:**
 https://github.com/hkarask/ubuntu-bash-layout-for-windows/blob/master/change_font_colors.ps1
 
+**Fixing WSL mounted FS rights:** (e.g. git clone chmod on .git/config.lock failed: Operation not permitted)
+```shell
+sudo umount /mnt/c
+sudo mount -t drvfs C: /mnt/d -o metadata
+```
+*source https://stackoverflow.com/a/52847682/846548*
+
 **Suggestions plugin:**
 https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh
 
