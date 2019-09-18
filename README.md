@@ -23,7 +23,7 @@ Setting Git autocrlf
 git config --global core.autocrlf true
 ```
 
-Fixing Windows terminal colors:
+**Fixing Windows terminal colors:**
 https://github.com/hkarask/ubuntu-bash-layout-for-windows/blob/master/change_font_colors.ps1
 
 **Suggestions plugin:**
@@ -31,6 +31,9 @@ https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zs
 
 **Highlighting plugin:**
 https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md#oh-my-zsh
+
+**Fancier Git diff**
+https://github.com/so-fancy/diff-so-fancy
 
 ***
 
