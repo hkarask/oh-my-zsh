@@ -23,16 +23,6 @@ Setting Git autocrlf
 git config --global core.autocrlf true
 ```
 
-**Fixing Windows terminal colors:**
-https://github.com/hkarask/ubuntu-bash-layout-for-windows/blob/master/change_font_colors.ps1
-
-**Fixing WSL mounted FS rights:** (e.g. git clone chmod on .git/config.lock failed: Operation not permitted)
-```shell
-sudo umount /mnt/c
-sudo mount -t drvfs C: /mnt/d -o metadata
-```
-*source https://stackoverflow.com/a/52847682/846548*
-
 **Suggestions plugin:**
 https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh
 
@@ -45,6 +35,20 @@ https://github.com/so-fancy/diff-so-fancy
 **Remove windows executables from path**
 https://github.com/Microsoft/WSL/issues/1493#issuecomment-417639271
 ***
+
+## Windows
+**Fixing Windows terminal colors:**
+https://github.com/hkarask/ubuntu-bash-layout-for-windows/blob/master/change_font_colors.ps1
+
+**Fixing WSL mounted FS rights:** (e.g. git clone chmod on .git/config.lock failed: Operation not permitted)
+```shell
+sudo umount /mnt/c
+sudo mount -t drvfs C: /mnt/d -o metadata
+```
+*source https://stackoverflow.com/a/52847682/846548*
+
+**Powerline fonts**
+Install `DejaVu Sans Mono for PowerLine` in otder to get icons
 
 ## Original Guide
 
